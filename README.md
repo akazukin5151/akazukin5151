@@ -1,4 +1,4 @@
-### Hi there 👋
+### I like programming
 
 <!--
 **akazukin5151/akazukin5151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
