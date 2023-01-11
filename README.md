@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Language timeline](https://github-readme-stats-2p27g2hx8-akazukin5151.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline)](https://github.com/akazukin5151)
+[![Language timeline](https://github-readme-stats-2p27g2hx8-akazukin5151.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline)](https://github-readme-stats-2p27g2hx8-akazukin5151.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline)
