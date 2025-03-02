@@ -1,4 +1,4 @@
-### I like programming
+### Hi :3
 
 <!--
 **akazukin5151/akazukin5151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Language timeline](https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline)](https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline)
+[![Language timeline](https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline&title_color=F06A6A)](https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline&title_color=F06A6A)
