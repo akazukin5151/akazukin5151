@@ -15,15 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline" />
-</picture>
-
+[![Language timeline](https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline)](https://github-readme-stats-gray-pi.vercel.app/api/top-langs/?username=akazukin5151&custom_title=Language%20timeline)
